@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.js": "/tugas-dua-react/static/js/main.59481538.chunk.js",
+    "main.js.map": "/tugas-dua-react/static/js/main.59481538.chunk.js.map",
+    "runtime-main.js": "/tugas-dua-react/static/js/runtime-main.be474a2e.js",
+    "runtime-main.js.map": "/tugas-dua-react/static/js/runtime-main.be474a2e.js.map",
+    "static/css/2.1a02f21c.chunk.css": "/tugas-dua-react/static/css/2.1a02f21c.chunk.css",
+    "static/js/2.bd9754af.chunk.js": "/tugas-dua-react/static/js/2.bd9754af.chunk.js",
+    "static/js/2.bd9754af.chunk.js.map": "/tugas-dua-react/static/js/2.bd9754af.chunk.js.map",
+    "index.html": "/tugas-dua-react/index.html",
+    "static/css/2.1a02f21c.chunk.css.map": "/tugas-dua-react/static/css/2.1a02f21c.chunk.css.map",
+    "static/js/2.bd9754af.chunk.js.LICENSE.txt": "/tugas-dua-react/static/js/2.bd9754af.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.be474a2e.js",
+    "static/css/2.1a02f21c.chunk.css",
+    "static/js/2.bd9754af.chunk.js",
+    "static/js/main.59481538.chunk.js"
+  ]
+}
